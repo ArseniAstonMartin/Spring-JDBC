@@ -8,6 +8,11 @@
   <name>springfourth Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+    <dependency>
+      <groupId>org.postgresql</groupId>
+      <artifactId>postgresql</artifactId>
+      <version>42.7.4</version>
+    </dependency>
 
     <dependency>
       <groupId>junit</groupId>

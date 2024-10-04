@@ -14,7 +14,6 @@ public class ClassicalMusic implements Music {
     }
     private String song;
 
-    @Override
     public String getSong() {
         return song;
     }
